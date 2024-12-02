@@ -102,6 +102,6 @@ def process_course_ratings(file_path, output_path):
 # Main execution
 if __name__ == "__main__":
     file_path = 'test.csv'
-    output_path = 'course_ratings.csv'
+    output_path = 'course_ratings_for_test.csv'
     ratings = process_course_ratings(file_path, output_path)
     print(ratings)
