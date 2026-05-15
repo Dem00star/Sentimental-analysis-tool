@@ -1,0 +1,17 @@
+# Mac OS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python Virtual Environments
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
