@@ -1,0 +1,2 @@
+course,reviews,tokens,sentiment_scores,label
+12,“Excellent material delivered by a passionate instructor! The content was well-structured and highly engaging.” ,"['excellent', 'passionate']","[ 1.0,0.045454545454545456,0.5291800000000001]",4

@@ -1,0 +1,6 @@
+CourseId,mean_filtered_sentiment_score,Rating_Gaussian_Type2,mean_label
+2-speed-it,0.6992,4.7678,4.7500
+20cnwm,0.4585,4.3236,5.0000
+2d-cad,0.2849,3.7471,5.0000
+3d-cad,0.4910,4.4017,4.6667
+3d-printing-applications,0.4172,4.2180,5.0000

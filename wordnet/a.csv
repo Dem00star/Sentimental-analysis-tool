@@ -1,0 +1,8 @@
+dataset , accuracy raw , gmm threshold , accuracy filtered , t test for raw, t test for filtered , p value for raw ,  p value for filtered
+review by course , 92.98% , 0.8659 , 94.86% , 34.86 , 6.22 , 1.762e-258 , 5.006e-10
+amazon reviews , 90.46% , 0.9754 , 92.03% , -143.33 , -140.55 , 0 , 0
+yelp labelled , 92.95% , 0.938 , 93.34% , 24.78 , -4.17 , 1.404e-134 , 2.999e-05
+Flipkart Product reviews , 87.85% ,  0.8965 , 88.89% , 6.39 , -14..61 , 1.674e-10 , 4.080e-48
+Pang and Lee polarity dataset , 86.05% , 0.9289 , 87.25% , 
+IMBD dataset , 90.02% , 0.9299 , 90.70% , 
+
