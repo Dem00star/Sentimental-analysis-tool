@@ -233,7 +233,7 @@ Running this over all 100 keypoints and summing yields the **actual final rating
 | Mapped rating | `R = 1 + ((S̄ + 1) × 2)` |
 | LSD | `LSD = max(0.3, 1 − Ē)` |
 | USD | `USD = min(2.0, 1 + Ē)` |
-| Weight | `w(µ) = exp(−|µ − R|)` |
+| Weight | `w(µ) = e^( −|µ − mapped_rating| )` |
 | GMF | `GMF(x,µ,σ) = exp(−(x−µ)²/(2σ²))` |
 | LMF | `GMF(x, µ, σ=LSD)` |
 | UMF | `GMF(x, µ, σ=USD)` |
